@@ -1,22 +1,17 @@
 [
   {
-    "title": "Test Title1",
-    "text": "Test text1",
-    "id": "6083eb00-12ff-11ea-bdf8-8d65f684d8a4"
+    "title": "Hello Github",
+    "text": "I hope you have a nice day.",
+    "id": "b0b58250-13c2-11ea-bb31-c7d28ed7fe63"
   },
   {
-    "title": "Trying",
-    "text": "so much",
-    "id": "330f9db0-1334-11ea-b964-7d76dc8a1010"
+    "title": "Tacocat ",
+    "text": "Is my favorite palindrome.",
+    "id": "c9aea2f0-13c2-11ea-94a2-2f9f7e8b3ed1"
   },
   {
-    "title": "rtt",
-    "text": "rrr",
-    "id": "757011a0-137d-11ea-a340-79a1734feb9e"
-  },
-  {
-    "title": "rtt",
-    "text": "rrr",
-    "id": "aedde980-137d-11ea-958e-6d2d93b80538"
+    "title": "Groceries",
+    "text": "More butter\nMore Milk\nMore Yogurt\nMore ice cream\nKnow what just more dairy!",
+    "id": "f896ff90-13c2-11ea-a2a5-21948dcc3ab1"
   }
 ]
